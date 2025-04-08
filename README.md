@@ -12,6 +12,7 @@
 - novedadesMarzo
   - 285 registros
 - novedadesVacMarzo
+  - 294 registros
 
 ## Onvio
 - liquidación de sueldo.
